@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactredux_blog/static/css/main.940dcde3.css",
+    "main.js": "/reactredux_blog/static/js/main.fe353857.js",
+    "index.html": "/reactredux_blog/index.html",
+    "main.940dcde3.css.map": "/reactredux_blog/static/css/main.940dcde3.css.map",
+    "main.fe353857.js.map": "/reactredux_blog/static/js/main.fe353857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940dcde3.css",
+    "static/js/main.fe353857.js"
+  ]
+}
